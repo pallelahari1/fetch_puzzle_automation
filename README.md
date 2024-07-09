@@ -9,17 +9,16 @@ lesser weight than the original gold bars using the weighing scale.
 3. Install pip https://pip.pypa.io/en/stable/installation/
 4. Install webdriver manager
 Use following command to install webdriver manager
-pip install webdriver-manage
+```pip install webdriver-manage```
 
 # Installation
 
-1. Clone the repository:  git clone https://github.com/pallelahari1/fetch_puzzle_automation.git
-2. Navigate to project directory: cd fetch_puzzle_automation
+1. Clone the repository: ```git clone https://github.com/pallelahari1/fetch_puzzle_automation.git```
+2. Navigate to project directory: ```cd fetch_puzzle_automation```
 
 # To Execute the Test
 
-Run solution by using the command python fakegoldbar_testcase.py
-
+Run solution by using the command : ```python fakegoldbar_testcase.py ```
 
 
 
