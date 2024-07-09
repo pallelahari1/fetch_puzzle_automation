@@ -1,5 +1,3 @@
-# Project Title
-Find fake gold bar puzzle
 
 # Description
 Automation script for testing an application to solve a 9 gold bar puzzle - Find the 1 fake gold bar which is of
