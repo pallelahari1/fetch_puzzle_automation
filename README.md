@@ -16,7 +16,7 @@ pip install webdriver-manage
 # Installation
 
 1. Clone the repository:  git clone https://github.com/pallelahari1/fetch_puzzle_automation.git
-2. Navigate to project directory: cd Goldbars_puzzle_test
+2. Navigate to project directory: cd fetch_puzzle_automation
 
 # To Execute the Test
 
