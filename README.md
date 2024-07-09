@@ -5,13 +5,10 @@ lesser weight than the original gold bars using the weighing scale.
 
 # Prerequisites
 1. Install python > 3.12.4 https://www.python.org/downloads/
-2. Install selenium https://selenium-python.readthedocs.io/installation.html
-3. Install an IDE - Ex: Pycharm https://www.jetbrains.com/help/pycharm/installation-guide.html,
-                          Visual studio  https://visualstudio.microsoft.com/downloads/
-4. Install pip https://pip.pypa.io/en/stable/installation/
-5. Install webdriver manager
-Use following command to install webdriver manager
-```pip install webdriver-manage```
+2. Install an IDE -Pycharm https://www.jetbrains.com/help/pycharm/installation-guide.html
+3.  Install pip https://pip.pypa.io/en/stable/installation/
+4.  Run the following command to install all the required packages
+```pip install -r requirements.txt```
 
 # Installation
 
